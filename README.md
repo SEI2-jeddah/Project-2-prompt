@@ -84,7 +84,7 @@ Submissions will be submitted by posting into slack
 
 - **[React](https://reactjs.org)**
 - **[DevDocs](https://devdocs.io/)**
-- **[GitHub Pages React](https://github.com/gitname/react-gh-pages)** _(for hosting your game)_
+- **[GitHub Pages React](https://github.com/gitname/react-gh-pages)** _(for hosting your app)_
 - **[GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)** _(for working with Markdown)_
 - **[Example React Projects](https://react.rocks)**
 ---
